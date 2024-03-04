@@ -1,0 +1,1 @@
+ /home/ubuntu/StudioProjects/Flutter-Covid-19-Tracker-App-Tutorials/.dart_tool/flutter_build/2b13d17792765ed44acb4d5ef66257a0/native_assets.yaml: 
